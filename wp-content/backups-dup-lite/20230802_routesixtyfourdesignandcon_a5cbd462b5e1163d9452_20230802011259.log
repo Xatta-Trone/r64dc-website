@@ -1,0 +1,73 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: August 2, 2023 1:13 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.5.1
+WORDPRESS:	6.2.2
+PHP INFO:	8.2.6 | SAPI: apache2handler
+SERVER:		Apache/2.4.54 (Win64) OpenSSL/1.1.1s PHP/8.2.6 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 66MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20230802_routesixtyfourdesignandcon_a5cbd462b5e1163d9452_20230802011259_database.sql
+SQL FILE SIZE: 12.42MB (13027228)
+SQL FILE TIME: 2023-08-02 01:13:51
+SQL RUNTIME: 13.88 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/laragon/www/route64dc
+ARCHIVE FILE: 20230802_routesixtyfourdesignandcon_a5cbd462b5e1163d9452_20230802011259_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	182.11MB
+STATS:	Dirs 1,469 | Files 8,908
+SQL ADDED: 20230802_routesixtyfourdesignandcon_a5cbd462b5e1163d9452_20230802011259_database.sql
+ZipArchive Object
+(
+    [lastId] => 10376
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 10377
+    [filename] => C:\laragon\www\route64dc\wp-content\backups-dup-lite\tmp\20230802_routesixtyfourdesignandcon_a5cbd462b5e1163d9452_20230802011259_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 10376
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 65.2MB
+ARCHIVE RUNTIME: 198.20 sec.
+MEMORY STACK: 70MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 12.42MB
+INSTALLER FILE: 73.49KB
+ARCHIVE FILE: 67.13MB 
+EXPECTED FILE/DIRECTORY COUNT: 10,377
+ACTUAL FILE/DIRECTORY COUNT: 10,376
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 214.31 sec.
+PEAK PHP MEMORY USED: 72MB
+DONE PROCESSING => 20230802_routesixtyfourdesignandcon August 2, 2023 1:17 am
+
